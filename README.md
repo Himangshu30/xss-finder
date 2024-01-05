@@ -35,7 +35,7 @@ Checking For Live Domains
 ---
 Clone the repository:
 ```
-git clone https://github.com/shinch4n/xss_finder.git
+
 ```
 
 Enter the clonned folder:
