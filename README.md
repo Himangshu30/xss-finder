@@ -35,7 +35,7 @@ Checking For Live Domains
 ---
 Clone the repository:
 ```
-
+https://github.com/Himangshu30/xss-finder
 ```
 
 Enter the clonned folder:
