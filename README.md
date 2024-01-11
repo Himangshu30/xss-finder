@@ -1,6 +1,6 @@
-## XSS FINDER 
+# XSS FINDER 
 ---
-
+Cross Site Scripting :
 Cross-Site Scripting (XSS) is one of the most well known web application vulnerabilities. It even has a dedicated chapter in the OWASP Top 10 project and it is a highly chased vulnerability in bug bounty programs.
 
 The  `xss finder` gets a link from the user and scan the website for XSS vulnerability by injecting malicious scripts at the input place.
