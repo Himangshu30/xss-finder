@@ -21,7 +21,7 @@ List of tools
 ## How to use?
 ***
 ```
-┌──(shinch4n㉿vibes)-[~]
+┌──(root㉿ctf)-[~]
 └─$ ./xss.sh 
 Enter Domain : testphp.vulnweb.com  <--- Enter your domain
 Subdomain Enumeration Started
